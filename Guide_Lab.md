@@ -316,12 +316,4 @@ git push origin develop
 
 ---
 
-## Final note — keep it human
-When conflicts or design choices arise, a quick chat or a short comment on the PR saves hours. Use clear branch names, descriptive commits, and friendly communication. Collaboration is as much social as technical.
 
-If you want, I can:
-- Generate a ready-to-add CONTRIBUTING.md and CODEOWNERS file.
-- Create a one-command bootstrap script for your repo.
-- Personalize banners, aliases, and a custom PS1 prompt for your lab.
-
-Which of those would you like next?
