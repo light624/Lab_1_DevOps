@@ -75,6 +75,6 @@ I build reliable, secure, and data-driven software that solves real problems. I 
 - LinkedIn: (add your LinkedIn)
 - Twitter/X: (add your handle)
 - Website / Blog: (add your site)
-- Email: (add your email)
+
 
 ---
